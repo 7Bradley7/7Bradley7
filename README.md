@@ -15,7 +15,7 @@ Hi, I'm Bradley 👋 — 5th-year software engineering student at **Epitech Pari
 <a href="https://github.com/7Bradley7/miraiko-mirror"><img src="assets/miraiko.jpg" alt="Miraiko browse page" width="220"></a>
 **[Miraiko](https://github.com/7Bradley7/miraiko-mirror)** — anime & manga recommendations that explain *why*, with AniList import (in progress, [miraiko.vercel.app](https://miraiko.vercel.app)). Next.js 16, React 19, Tailwind CSS 4
 
-<a href="https://github.com/7Bradley7/air-974-mirror"><img src="assets/air974.jpg" alt="AIR 974 console with three phones connected" width="220"></a>
+<a href="https://github.com/7Bradley7/air-974-mirror"><img src="assets/air974.jpg" alt="AIR 974 console home screen (Figma mockup)" width="220"></a>
 **[AIR 974](https://github.com/7Bradley7/air-974-mirror)** — browser game console where your phones are the controllers: room code, real-time presses, latency measured on the phone. **Project lead** (product owner & scrum master): I run the Notion, sprint planning, task assignment, GitHub code reviews and retrospectives, and own the front end, accessibility & brand identity
 
 <a href="https://github.com/7Bradley7/dans-la-marmite-de-meme-mirror"><img src="assets/marmite.jpg" alt="Dans la marmite de mémé — title screen" width="220"></a>
