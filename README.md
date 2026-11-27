@@ -21,11 +21,11 @@ Hi, I'm Bradley 👋 — 5th-year software engineering student at **Epitech Pari
 <a href="https://github.com/7Bradley7/dans-la-marmite-de-meme-mirror"><img src="assets/marmite.jpg" alt="Dans la marmite de mémé — title screen" width="220"></a>
 **[Dans la marmite de mémé](https://github.com/7Bradley7/dans-la-marmite-de-meme-mirror)** — narrative cooking game set in Réunion: learn grandma's recipes through mini-games. Vanilla HTML, CSS & JavaScript, no dependencies
 
-<img src="assets/area.jpg" alt="AREA web app login page" width="220">
-**AREA** — IFTTT/Zapier-like automation platform built as a team. I built most of the web front end: Next.js, React, Tailwind CSS, with dark and accessibility modes
+<img src="assets/area.jpg" alt="AREA workflows page" width="220">
+**AREA** — IFTTT/Zapier-like automation platform, team of 5 (2 back end, web, mobile, full stack). I built most of the web front end on my own: Next.js, React, Tailwind CSS, with dark and accessibility modes
 
 <img src="assets/zappy.jpg" alt="Zappy 3D map with AI players" width="220">
-**Zappy** — multiplayer network game (C server, raylib 3D GUI), built as a team. I wrote the AI client in Python: it connects over TCP, gathers resources and plays autonomously
+**Zappy** — multiplayer network game (C server, raylib 3D GUI), team of 5. I wrote the AI client in Python: it connects over TCP, gathers resources and plays autonomously
 
 <img src="assets/rtype.jpg" alt="R-Type main menu" width="220">
 **R-Type** — multiplayer shoot'em up in C++20 with raylib, ECS architecture and UDP/TCP networking, team of 5
