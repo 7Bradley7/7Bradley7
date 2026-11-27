@@ -21,17 +21,17 @@ Hi, I'm Bradley 👋 — 5th-year software engineering student at **Epitech Pari
 <a href="https://github.com/7Bradley7/dans-la-marmite-de-meme-mirror"><img src="assets/marmite.jpg" alt="Dans la marmite de mémé — title screen" width="220"></a>
 **[Dans la marmite de mémé](https://github.com/7Bradley7/dans-la-marmite-de-meme-mirror)** — narrative cooking game set in Réunion: learn grandma's recipes through mini-games. Vanilla HTML, CSS & JavaScript, no dependencies
 
-<img src="assets/area.jpg" alt="AREA workflows page" width="220">
-**AREA** — IFTTT/Zapier-like automation platform, team of 5 (2 back end, web, mobile, full stack). I built most of the web front end on my own: Next.js, React, Tailwind CSS, with dark and accessibility modes
+<a href="https://github.com/7Bradley7/area-mirror"><img src="assets/area.jpg" alt="AREA workflows page" width="220"></a>
+**[AREA](https://github.com/7Bradley7/area-mirror)** — IFTTT/Zapier-like automation platform, team of 5 (2 back end, web, mobile, full stack). I built most of the web front end on my own: Next.js, React, Tailwind CSS, with dark and accessibility modes
 
-<img src="assets/zappy.jpg" alt="Zappy 3D map with AI players" width="220">
-**Zappy** — multiplayer network game (C server, raylib 3D GUI), team of 5. I wrote the AI client in Python: it connects over TCP, gathers resources and plays autonomously
+<a href="https://github.com/7Bradley7/zappy-mirror"><img src="assets/zappy.jpg" alt="Zappy 3D map with AI players" width="220"></a>
+**[Zappy](https://github.com/7Bradley7/zappy-mirror)** — multiplayer network game (C server, raylib 3D GUI), team of 5. I wrote the AI client in Python: it connects over TCP, gathers resources and plays autonomously
 
-<img src="assets/rtype.jpg" alt="R-Type main menu" width="220">
-**R-Type** — multiplayer shoot'em up in C++20 with raylib, ECS architecture and UDP/TCP networking, team of 5
+<a href="https://github.com/7Bradley7/rtype-mirror"><img src="assets/rtype.jpg" alt="R-Type main menu" width="220"></a>
+**[R-Type](https://github.com/7Bradley7/rtype-mirror)** — multiplayer shoot'em up in C++20 with raylib, ECS architecture and UDP/TCP networking, team of 5
 
-<img src="assets/arcade.jpg" alt="Snake running in the Arcade platform" width="220">
-**Arcade** — retro gaming platform in C++ that loads games and graphics libraries (SDL2, SFML, ncurses) at runtime. I made the Snake game module
+<a href="https://github.com/7Bradley7/arcade-mirror"><img src="assets/arcade.jpg" alt="Snake running in the Arcade platform" width="220"></a>
+**[Arcade](https://github.com/7Bradley7/arcade-mirror)** — retro gaming platform in C++ that loads games and graphics libraries (SDL2, SFML, ncurses) at runtime. I made the Snake game module
 
 #### Stack
 
