@@ -22,7 +22,8 @@ Hi, I'm Bradley 👋 — 5th-year software engineering student at **Epitech Pari
 **[AIR 974](https://github.com/7Bradley7/air-974-mirror)** — browser game console where your phones are the controllers (rooms, QR join, real-time, SDK). Front end, accessibility & brand identity
 
 <img src="assets/sony-csl.jpg" alt="RAG chatbot" width="220">
-**RAG chatbot @ Sony CSL** — benchmarked LLMs on an existing RAG pipeline, built a Flask API and a React UI showing answers, source passages and book covers (historical market gardening archives)
+<b>RAG chatbot @ Sony CSL</b> — benchmarked LLMs on an existing RAG pipeline, built a Flask API and a React UI showing answers, source passages and book covers (historical market gardening archives)
+
 
 Also: **AREA** (IFTTT-like automation platform, Next.js) · **R-Type** (multiplayer shoot'em up, C++, ECS, UDP)
 
